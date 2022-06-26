@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-sass-project/static/css/main.b5797116.css",
+    "main.js": "/react-sass-project/static/js/main.b60396ab.js",
+    "index.html": "/react-sass-project/index.html",
+    "main.b5797116.css.map": "/react-sass-project/static/css/main.b5797116.css.map",
+    "main.b60396ab.js.map": "/react-sass-project/static/js/main.b60396ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5797116.css",
+    "static/js/main.b60396ab.js"
+  ]
+}
